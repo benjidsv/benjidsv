@@ -1,4 +1,4 @@
-### Hi, I'm Benjamin 👋
+### 👋
 
 Final-year engineering student at EFREI Paris, working on reinforcement learning, LLM agents and applied ML.
 
